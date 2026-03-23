@@ -1,0 +1,5 @@
+{
+  "name": "LabConnect - Laboratory Information System",
+  "description": "A comprehensive laboratory information and diagnostic workflow management system with role-based access control for Admins, Managers, Pathologists, Clinicians, and Technicians.",
+  "requestFramePermissions": []
+}
